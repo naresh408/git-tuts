@@ -1,0 +1,3 @@
+This is the file added in branch "branch1" 
+Committed in branch1 and pushed to the same branch
+then the chnages are merged to master from branch1
